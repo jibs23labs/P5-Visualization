@@ -162,8 +162,8 @@ function preload(){
 
 
     // Draw: Name of City
-    textFont(fontLight);
-    // textFont(fontBold);
+    // textFont(fontLight);
+    textFont(fontBold);
     fill(255);
     noStroke();
     textAlign(LEFT);
